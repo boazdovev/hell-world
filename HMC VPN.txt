@@ -1,0 +1,10 @@
+192.116.94.12
+Ext_BoazD
+Bd@13049b + SMS Token
+
+(Old: mivnit hHuT6VWc)
+
+RDP
+192.168.77.45
+taf\admmivnit
+hHuT6VWc
